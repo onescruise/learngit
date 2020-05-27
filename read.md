@@ -1,1 +1,1 @@
-print(;;he)
+hello word
